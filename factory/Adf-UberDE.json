@@ -1,0 +1,15 @@
+{
+	"name": "Adf-UberDE",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "35227fdc-6ac6-4639-9f65-969903580717",
+		"tenantId": "3f4c672e-4631-4a1a-b171-424b019f0f05"
+	}
+}
