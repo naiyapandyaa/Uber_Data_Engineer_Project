@@ -1,6 +1,6 @@
 # **UBER REAL-TIME DATA ENGINEERING PROJECT**
 
-![Project Architecture](architecture.png)
+![Project Architecture](uber_pipeline_with_powerbi.png)
 
 
 
