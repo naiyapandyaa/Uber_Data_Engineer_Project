@@ -20,6 +20,8 @@ All Azure resources used in this project.
 
 ![Ride Booking Data](Arcitecture/uber_ride_booking_data.png)
 
+(Arcitecture/Databricks.png)
+
 
 
 
