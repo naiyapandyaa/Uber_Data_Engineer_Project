@@ -32,5 +32,5 @@ All Azure resources used in this project.
 
 ## Power BI Dashboard
 
-![Power BI Dashboard](Arcitecture/powerbi.png)
+![Power BI Dashboard](Arcitecture/Uber_Project_bi.png)
 
