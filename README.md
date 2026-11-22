@@ -21,13 +21,14 @@ All Azure resources used in this project.
 
 ![Ride Booking Data](Arcitecture/uber_ride_booking_data.png)
 
-## 2010 Rides Data
 
-![2010 Rides](Arcitecture/2010_rides.png)
-
-## Databricks Output
+## Databricks 
 
 ![Databricks Architecture](Arcitecture/Databricks.png)
+
+## Output (total rides)
+
+![2010 Rides](Arcitecture/2010_rides.png)
 
 ## Power BI Dashboard
 
