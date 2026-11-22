@@ -1,4 +1,5 @@
-# **UBER REAL-TIME DATA ENGINEERING PROJECT**
+
+# UBER REAL-TIME DATA ENGINEERING PROJECT
 
 ![Project Architecture](Arcitecture/uber_pipeline_with_powerbi.png)
 
@@ -20,6 +21,15 @@ All Azure resources used in this project.
 
 ![Ride Booking Data](Arcitecture/uber_ride_booking_data.png)
 
-## Databricks
+## 2010 Rides Data
+
+![2010 Rides](Arcitecture/2010_rides.png)
+
+## Databricks Output
 
 ![Databricks Architecture](Arcitecture/Databricks.png)
+
+## Power BI Dashboard
+
+![Power BI Dashboard](Arcitecture/powerbi.png)
+
